@@ -1,0 +1,14 @@
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/codyhill/dotnet_projects/PencilKata/src/PencilKata.App/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
